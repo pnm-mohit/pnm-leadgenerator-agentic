@@ -1,0 +1,7 @@
+[theme]
+# Dark mode with vibrant accent color
+primaryColor = "#FF007A"  # Primary Pink
+backgroundColor = "#160F44"  # Very dark blue-gray
+secondaryBackgroundColor = "#313050"  # Darker blue-gray
+textColor = "#F9FAFB"  # Off-white
+font = "sans serif"
